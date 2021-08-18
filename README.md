@@ -2,8 +2,6 @@
 
 I am a full-stack software developer based in Casablanca, Morocco.
 
-I have 3 years work experience as a professional software engineer, and I've been a Linux enthusiast for the last 5 years, CLI is my home.
-
 I love building things. While hard engineering problems are often intrinsically fun to tackle, I'm most attracted to solving real customer problems with a business justification.
 
 I am also an experienced musician/guitar player, I have been playing for 9 years, I share my music related stuff on [my Instagram](https://instagram.com/m4tt72).
