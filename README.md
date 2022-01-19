@@ -1,6 +1,6 @@
 # $ whoami?
 
-I am Yassine, a full-stack software developer based in Casablanca, Morocco.
+I am Yassine, a full-stack software developer based in Morocco.
 
 I love building things. While hard engineering problems are often intrinsically fun to tackle, I'm most attracted to solving real customer problems with a business justification.
 
