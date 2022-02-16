@@ -8,8 +8,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=m4tt72.m4tt72)
 
-<br />
-
 # $ whoami?
 
 I am Yassine, a full-stack software developer based in Morocco.
