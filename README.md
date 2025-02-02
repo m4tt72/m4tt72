@@ -1,6 +1,6 @@
 <!-- Banner or Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F74599&center=true&vCenter=true&width=600&lines=Hey,+I'm+Yassine+Fathi!;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=458588&center=true&vCenter=true&width=600&lines=Hey,+I'm+Yassine+Fathi!;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <!-- Introduction -->
@@ -56,9 +56,9 @@ Here are some of the technologies and tools I’ve been working with:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4tt72&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tt72&layout=compact&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4tt72&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4tt72&show_icons=true&theme=gruvbox" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tt72&layout=compact&theme=gruvbox" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4tt72&theme=gruvbox" height="180em" />
 </p>
 
 ---
