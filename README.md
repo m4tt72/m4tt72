@@ -66,10 +66,10 @@ Here are some of the technologies and tools I’ve been working with:
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://l.fathi.me/yassine-linkedin" target="_blank">
+  <a href="https://l.fathi.me/linkedin" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://l.fathi.me/yassine-instagram" target="_blank">
+  <a href="https://l.fathi.me/instagram" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
