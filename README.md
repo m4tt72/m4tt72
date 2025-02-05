@@ -58,7 +58,6 @@ Here are some of the technologies and tools I’ve been working with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m4tt72&show_icons=true&theme=gruvbox" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tt72&layout=compact&theme=gruvbox" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4tt72&theme=gruvbox" height="180em" />
 </p>
 
 ---
