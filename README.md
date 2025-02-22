@@ -4,8 +4,6 @@
 </p>
 
 <!-- Introduction -->
-<h2 align="center">Welcome to my GitHub Profile! 👋</h2>
-
 <p align="center">
   I'm a passionate <strong>Software Engineer</strong> with hands-on experience in designing, developing, and implementing solutions using various technologies and programming languages. I love solving problems, contributing to open source, and learning new technologies!
 </p>
